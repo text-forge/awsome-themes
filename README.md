@@ -18,7 +18,7 @@ How to use themes:
 - Well done!
 
 # Available Themes
-## [Dark](https://raw.githubusercontent.com/text-forge/awsome-themes/main/themes/dark.tres) 🎖️ (default) `dark`
+## [Dark](https://raw.githubusercontent.com/text-forge/awsome-themes/main/themes/dark.tres) 🎖️📦 (default) `dark`
 <img alt="Dark Theme" src="https://github.com/user-attachments/assets/54d95a5a-9ffb-4cf2-90e4-0372562879c2"/>
 
 # Share your own theme!
